@@ -1,4 +1,4 @@
-# Copyright (C) 2011 The CyanogenMod Project
+# Copyright (C) 2014 Android Open Source Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -595,7 +595,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/nypon/proprietary/etc/adm.sqlite:system/etc/adm.sqlite \
     vendor/sony/nypon/proprietary/etc/permissions/com.sonyericsson.privateapis.xml:system/etc/permissions/com.sonyericsson.privateapis.xml \
     vendor/sony/nypon/proprietary/app/HdmiService.apk:system/app/HdmiService.apk \
-    vendor/sony/nypon/proprietary/bin/admsrvr:system/bin/admsrvr \
+    vendor/sony/nypon/proprietary/bin/admsrv:system/bin/admsrv \
     vendor/sony/nypon/proprietary/bin/sms_server:system/bin/sms_server \
     vendor/sony/nypon/proprietary/bin/lbsstelp:system/bin/lbsstelp \
     vendor/sony/nypon/proprietary/bin/chargemon:system/bin/chargemon \
